@@ -6,4 +6,4 @@ My experience so far has mostly been in building and performing SEO on sites in 
 
 As an SEO expert, I felt that it was important to really hit it home on our own website, FleekConsulting.com. This will allow me to expand my technical skills and learn the Ruby on Rails platform, while also helping me to rank better in search engines. 
 
-I’ve ben able to generate countless leads for our other clients, especially my emergency car locksmith who gets around 300 calls a month. But “SEO Charlotte” can be a pretty competitive keyword phrase so it’ll be interesting to see if this works for my own company! 
+I’ve ben able to generate countless leads for our other clients, especially my emergency car locksmith who gets around 300 calls a month. But <a href=“https://fleekconsulting.com/“>SEO Charlotte</a> can be a pretty competitive keyword phrase so it’ll be interesting to see if this works for my own company! 
